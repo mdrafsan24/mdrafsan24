@@ -1,3 +1,4 @@
 ### Hey! I'm Rafsan 👦🏻,
-- 🏫 Recent graduate with a degree in CS & Math.
-- 💻 Would love to work tech companies doing cool stuff!
+- 🏫 CS+Math Grad
+- 💻 Love solo development, professionally worked as an iOS and full-stack engineer.
+- 🤖 Currently exploring AI and DeFi
